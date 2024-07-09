@@ -6,7 +6,7 @@ Breve descrição do seu projeto
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Microsoft Copilot](https://www.bing.com/chat)** para roteirização;
 - IA Generativa **[aiCarousels](https://www.aicarousels.com/)** para criar a arte visual do carrossel;
-- Ferramenta **Canva** para edição de Design Gráfico.
+- Ferramenta **[Canva](https://www.canva.com/)** para edição de Design Gráfico.
 
 ## 🧐 Processo de Criação
 - Inicialmente, pedi ao Microsoft Copilot para que gerasse um roteiro de carrossel de Instagram com o tema:
